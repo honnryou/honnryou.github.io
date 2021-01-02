@@ -1,6 +1,6 @@
 # Site
 title:              Honnryou
-bio:                'Honnryou's programming.'
+bio:                'Honnryou's programming'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+#email: honnryou961@gmail.com
 twitter:            username
 facebook:           username
 github-url:         https://github.com/honnryou
