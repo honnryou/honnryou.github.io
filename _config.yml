@@ -1,6 +1,6 @@
 # Site
 title:              Honnryou
-bio:                ''
+bio:                'programing blog'
 description:        ""
 reading_time:       true
 words_per_minute:   200
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email: honnryou961@gmail.com
+email: honnryou961@gmail.com
 twitter:            username
 facebook:           username
 github-url:         /honnryou
