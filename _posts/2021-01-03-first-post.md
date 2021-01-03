@@ -1,9 +1,6 @@
 ---
 title:  "[잡담]2021년 1월 3일 블로그 시작"
 excerpt: "블로그 시작합니다!"
-
-categories:
-  - [잡담]
 tags:
   - [Blog, Github, Git]
 category: [잡담]
