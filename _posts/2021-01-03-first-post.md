@@ -1,8 +1,6 @@
 ---
-layout : post
 title:  "[잡담]2021년 1월 3일 블로그 시작"
 excerpt: "블로그 시작합니다!"
-comments : true
 tags: [Blog, Github, Git]
 categories: [잡담]
 toc: true
