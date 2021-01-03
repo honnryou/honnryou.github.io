@@ -1,12 +1,12 @@
 ---
+layout : post
 title:  "[잡담]2021년 1월 3일 블로그 시작"
 excerpt: "블로그 시작합니다!"
-tags:
-  - [Blog, Github, Git]
-category: [잡담]
+comments : true
+tags: [Blog, Github, Git]
+categories: [잡담]
 toc: true
 toc_sticky: true
- 
 date: 2021-01-03
 last_modified_at: 2021-01-03
 ---  
